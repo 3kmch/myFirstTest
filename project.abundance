@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "myFirstTest",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "e46e9411-e615-4d6c-8d59-438675043277",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
