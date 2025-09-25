@@ -25,7 +25,7 @@
                 {
                     "name": "diameter",
                     "ioValue": 50,
-                    "currentEquation": "50"
+                    "currentEquation": null
                 }
             ]
         },
@@ -39,7 +39,7 @@
                 {
                     "name": "height",
                     "ioValue": 50,
-                    "currentEquation": "50"
+                    "currentEquation": null
                 }
             ]
         },
@@ -53,12 +53,12 @@
                 {
                     "name": "x length",
                     "ioValue": 100,
-                    "currentEquation": "100"
+                    "currentEquation": null
                 },
                 {
                     "name": "y length",
                     "ioValue": 80,
-                    "currentEquation": "80"
+                    "currentEquation": null
                 }
             ]
         },
@@ -72,7 +72,7 @@
                 {
                     "name": "height",
                     "ioValue": 10,
-                    "currentEquation": "10"
+                    "currentEquation": null
                 }
             ]
         },
